@@ -1,0 +1,31 @@
+html {
+	background-color: #DCDCDC;
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	height: 100%;
+}
+
+.top-bar {
+	width: 100%;
+	height: 15%;
+	background-color: #444;
+}
+
+.container {
+	height: 85%;
+	width: 60%;
+	margin: 0 auto;
+}
+
+.container .inner-box {
+	height: 85%;
+	background-color: #fff;
+}
+
+.container .inner-footer {
+	height: 15%;
+	background-color: #1D1D1D;
+}

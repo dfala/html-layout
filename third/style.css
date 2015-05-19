@@ -1,0 +1,47 @@
+html body {
+	height: 100vh;
+	width: 100%;
+	margin: 0;
+	position: relative;
+}
+
+.bar {
+	min-height: 15%;
+	width: 100%;
+}
+
+.top-header {
+	background-color: #CFCFCF;
+	padding: 0;
+	position: relative;
+}
+
+.top-header .little-box {
+	background-color: #3B7ADA;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 23px;
+	left: 20px;
+}
+
+.content {
+	padding: 80px 50px 30px 50px;
+	width: auto;
+}
+
+.two {
+	background-color: #3B7ADA;
+}
+
+.three {
+	background-color: #60E0B5;
+}
+
+.four {
+	background-color: #ABE873;
+}
+
+.five {
+	background-color: #F6E540;
+}
